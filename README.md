@@ -11,6 +11,7 @@
 <center> <h2> 관심있거나 공부중인 기술들이에요 📕 </h2> </center>
 
 ![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
